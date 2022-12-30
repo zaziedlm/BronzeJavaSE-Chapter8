@@ -1,7 +1,5 @@
 package com.problem;
 
-import javax.lang.model.util.ElementScanner14;
-
 /**
  * Hello world!
  *

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SubClass",
+            "request": "launch",
+            "mainClass": "com.problem.SubClass",
+            "projectName": "chapter8_14"
+        },
+        {
+            "type": "java",
             "name": "Launch Train",
             "request": "launch",
             "mainClass": "com.problem.Train",
