@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SwitchMain",
+            "request": "launch",
+            "mainClass": "com.problem.SwitchMain",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch News",
+            "request": "launch",
+            "mainClass": "com.problem.News",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch DowhileMain",
+            "request": "launch",
+            "mainClass": "com.problem.DowhileMain",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.problem.Main",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Launch SubClass",
             "request": "launch",
             "mainClass": "com.problem.SubClass",
