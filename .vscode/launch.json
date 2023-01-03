@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SubClass",
+            "request": "launch",
+            "mainClass": "com.problem.SubClass",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Counter",
+            "request": "launch",
+            "mainClass": "com.problem.Counter",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "com.problem.App",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Manager",
+            "request": "launch",
+            "mainClass": "com.problem.Manager",
+            "projectName": "chapter8_38"
+        },
+        {
+            "type": "java",
+            "name": "Launch Manager",
+            "request": "launch",
+            "mainClass": "com.problem.no38.Manager",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Launch SwitchMain",
             "request": "launch",
             "mainClass": "com.problem.SwitchMain",
