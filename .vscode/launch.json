@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Point",
+            "request": "launch",
+            "mainClass": "com.problem.Point",
+            "projectName": "chapter8_56"
+        },
+        {
+            "type": "java",
             "name": "Launch Sample",
             "request": "launch",
             "mainClass": "com.problem.Sample",
