@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Sample",
+            "request": "launch",
+            "mainClass": "com.problem.Sample",
+            "projectName": "chapter8_48"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculator",
+            "request": "launch",
+            "mainClass": "com.problem.Calculator",
+            "projectName": "chapter8_47"
+        },
+        {
+            "type": "java",
             "name": "Launch SubClass",
             "request": "launch",
             "mainClass": "com.problem.SubClass",
